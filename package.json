@@ -1,0 +1,14 @@
+{
+  "name": "nodeform",
+  "version": "1.0.0",
+  "description": "good start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MADAKARI NAYAKA H M",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.1"
+  }
+}
